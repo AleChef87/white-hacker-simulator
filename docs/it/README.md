@@ -115,7 +115,7 @@ Il gioco base è **100% gratuito**. Per sbloccare tutte le funzionalità IA (sce
 
 ```bash
 # Clona il repository
-git clone https://github.com/[username]/white-hacker-simulator.git
+git clone https://github.com/AleChef87/white-hacker-simulator.git
 cd white-hacker-simulator
 
 # Installa dipendenze
@@ -279,3 +279,4 @@ Grazie ai progetti open source che rendono possibile questo gioco:
 <p align="center">
   <a href="#-white-hacker-simulator">⬆️ Torna all'inizio</a>
 </p>
+
