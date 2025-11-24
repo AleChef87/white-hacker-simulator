@@ -168,7 +168,7 @@ We're looking for contributors of all levels! No need to be an expert.
 
 1. 📖 Read [CONTRIBUTING.md](CONTRIBUTING.md)
 2. 🏷️ Find an issue labeled `good-first-issue`
-3. 💬 Introduce yourself on our [Discord](#)
+3. 💬 Introduce yourself on our [Discord](https://discord.gg/GMsDWfN8Jg)
 4. 🔧 Fork, develop, open a PR!
 
 > Every contribution is recognized in the game credits! 🏆
@@ -191,10 +191,8 @@ We're looking for contributors of all levels! No need to be an expert.
 
 | Channel | Link |
 |---------|------|
-| 💬 Discord | [Join server](#) |
-| 🐦 Twitter/X | [@WhiteHackerSim](#) |
-| 📧 Email | whitehackersim@email.com |
-| 📋 Forum | [GitHub Discussions](../../discussions) |
+| 💬 Discord | [Join server](https://discord.gg/GMsDWfN8Jg) |
+| 📋 Forum | [GitHub Discussions](https://github.com/AleChef87/white-hacker-simulator/discussions) |
 
 ---
 
@@ -249,7 +247,7 @@ See [LICENSE](../../LICENSE) for details.
 ## 🙏 Credits
 
 ### Core Team
-- **[Your Name]** - Creator and Project Lead
+- **AleChef87** - Creator and Project Lead
 
 ### Contributors
 *Be the first! Contribute now and your name will appear here.*
