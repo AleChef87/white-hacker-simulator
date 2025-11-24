@@ -38,7 +38,9 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-📧 **whitehackersim@email.com**
+💬 **Discord**: [https://discord.gg/GMsDWfN8Jg](https://discord.gg/GMsDWfN8Jg)
+
+Or via **GitHub Issues** (for public reports)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
