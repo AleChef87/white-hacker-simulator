@@ -115,7 +115,7 @@ The base game is **100% free**. To unlock all AI features (dynamic scenarios, sm
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/white-hacker-simulator.git
+git clone https://github.com/AleChef87/white-hacker-simulator.git
 cd white-hacker-simulator
 
 # Install dependencies
