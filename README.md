@@ -51,13 +51,13 @@
 <p align="center">
   <a href="docs/en/README.md">📖 Documentation</a> •
   <a href="docs/en/CONTRIBUTING.md">🤝 Contribute</a> •
-  <a href="https://discord.gg/whitehackersim">💬 Discord</a>
+  <a href="https://discord.gg/GMsDWfN8Jg">💬 Discord</a>
 </p>
 
 <p align="center">
   <a href="docs/it/README.md">📖 Documentazione</a> •
   <a href="docs/it/CONTRIBUTING.md">🤝 Contribuisci</a> •
-  <a href="https://discord.gg/whitehackersim">💬 Discord</a>
+  <a href="https://discord.gg/GMsDWfN8Jg">💬 Discord</a>
 </p>
 
 ---
