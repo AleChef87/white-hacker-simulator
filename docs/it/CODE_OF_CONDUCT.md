@@ -36,9 +36,11 @@ Questo Codice di Condotta si applica in tutti gli spazi della community, e si ap
 
 ## Applicazione
 
-I casi di comportamento abusivo, molesto o altrimenti inaccettabile possono essere segnalati ai leader della community responsabili dell'applicazione all'indirizzo:
+I casi di comportamento abusivo, molesto o altrimenti inaccettabile possono essere segnalati ai leader della community responsabili dell'applicazione:
 
-📧 **whitehackersim@email.com**
+💬 **Discord**: [https://discord.gg/GMsDWfN8Jg](https://discord.gg/GMsDWfN8Jg)
+
+Oppure tramite **GitHub Issues** (per segnalazioni pubbliche)
 
 Tutti i reclami saranno esaminati e investigati tempestivamente e in modo equo.
 
