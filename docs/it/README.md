@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="assets/logo.png" alt="White Hacker Simulator" width="400">
+  <img src="../../assets/logo.png" alt="White Hacker Simulator" width="400">
 </p>
 
 <h1 align="center">White Hacker Simulator</h1>
+
+<p align="center">
+  <a href="../../docs/en/README.md">🇬🇧 Read in English</a>
+</p>
 
 <p align="center">
   <strong>Impara la cybersecurity giocando. Proteggi il mondo digitale.</strong>
@@ -188,10 +192,8 @@ Cerchiamo contributori di tutti i livelli! Non serve essere esperti.
 
 | Canale | Link |
 |--------|------|
-| 💬 Discord | [Unisciti al server](#) |
-| 🐦 Twitter/X | [@WhiteHackerSim](#) |
-| 📧 Email | whitehackersim@email.com |
-| 📋 Forum | [GitHub Discussions](../../discussions) |
+| 💬 Discord | [Unisciti al server](https://discord.gg/GMsDWfN8Jg) |
+| 📋 Forum | [GitHub Discussions](https://github.com/AleChef87/white-hacker-simulator/discussions) |
 
 ---
 
@@ -255,7 +257,7 @@ Vedi [LICENSE](LICENSE) per i dettagli.
 ## 🙏 Credits
 
 ### Core Team
-- **[Il Tuo Nome]** - Ideatore e Project Lead
+- **[AleChef87]** - Ideatore e Project Lead
 
 ### Contributori
 *Diventa il primo! Contribuisci ora e il tuo nome apparirà qui.*
