@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discord
+    url: https://discord.gg/GMsDWfN8Jg
+    about: Chat with the community for quick questions
+  - name: 📖 Documentation
+    url: https://github.com/AleChef87/white-hacker-simulator/wiki
+    about: Check the documentation before opening an issue
+  - name: 💡 Discussions
+    url: https://github.com/AleChef87/white-hacker-simulator/discussions
+    about: For general discussions and ideas
